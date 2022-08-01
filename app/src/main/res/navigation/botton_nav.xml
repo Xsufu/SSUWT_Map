@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/botton_nav"
+    app:startDestination="@id/mainBuild">
+
+    <fragment
+        android:id="@+id/laboratory"
+        android:name="com.ssuwt.ssuwtmap.Laborathory"
+        android:label="fragment_laborathory"
+        tools:layout="@layout/fragment_laborathory" />
+    <fragment
+        android:id="@+id/mainBuild"
+        android:name="com.ssuwt.ssuwtmap.MainBuild"
+        android:label="fragment_main_build"
+        tools:layout="@layout/fragment_main_build" />
+    <fragment
+        android:id="@+id/secondBuild"
+        android:name="com.ssuwt.ssuwtmap.SecondBuild"
+        android:label="fragment_second_build"
+        tools:layout="@layout/fragment_second_build" />
+    <fragment
+        android:id="@+id/ways"
+        android:name="com.ssuwt.ssuwtmap.Ways"
+        android:label="fragment_ways"
+        tools:layout="@layout/fragment_ways" />
+</navigation>

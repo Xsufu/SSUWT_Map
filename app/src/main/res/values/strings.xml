@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SSUWT Map</string>
+    <string name="menu_description">Кнопка раскрытия бокового меню</string>
+    <string name="image_description">Изображение с планом этажа</string>
+
+    <string name="header_main"><b>Главный корпус</b></string>
+    <string name="header_lab"><b>Лабораторный корпус</b></string>
+    <string name="header_sec"><b>Корпус №2</b></string>
+    <string name="header_ways"><b>Маршруты</b></string>
+    
+    <string name="from"><b>Откуда</b></string>
+    <string name="to"><b>Куда</b></string>
+    <string name="accept"><b>Ok</b></string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+
+    <string name="inWork">Раздел находится в разработке</string>
+
+    <string-array name="buildings">
+        <item>...</item>
+        <item>Главный</item>
+        <item>Лабораторный</item>
+        <item>К2</item>
+    </string-array>
+
+</resources>

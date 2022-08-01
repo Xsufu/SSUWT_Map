@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainBuild"
+        android:title="@string/header_main"
+        android:icon="@drawable/ic_main" />
+
+    <item
+        android:id="@+id/laboratory"
+        android:title="@string/header_lab"
+        android:icon="@drawable/ic_lab" />
+
+    <item
+        android:id="@+id/secondBuild"
+        android:title="@string/header_sec"
+        android:icon="@drawable/ic_second" />
+
+    <item
+        android:id="@+id/ways"
+        android:title="@string/header_ways"
+        android:icon="@drawable/ic_ways" />
+</menu>
